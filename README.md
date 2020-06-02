@@ -1,0 +1,2 @@
+# Hackintosh-LENOVO-XIAOXIN700
+联想小新700（Ideapad 700-15ISK）黑苹果 CLOVER EFI
